@@ -1,0 +1,125 @@
+<!doctype.html>
+<HTML.lang="pt-BR">
+<head>
+  >meta charset=:"utf-8">
+  <meta name="viewport"content="width=device-widt
+  <title>FF VIP painel</title/
+
+<style>
+*{
+box-sizing;bordertt-box;
+margin;0;
+padding;0;
+font-family:Arial,helvetica,sans-serif;
+}
+body{
+min-height:100vh;
+background:
+radial-gradient(circle at top left,#20205
+radial-gradiente(circle at botttom right,#4
+#080812;
+color:#fff;
+}
+.login-screen {
+min-height:100vh;
+display:flex;
+aligin-items:center;
+justify-content:center;
+padding:20px;
+}
+.login-card{
+width:100%;
+max-width:400px;
+padding:35px;
+border:1xp solid rgba(255,255,255,.12);
+border-radius:24px;background:rgba(15,15,30,.88);
+box-schadow:0 20xp 60px rgba(0,0,0,.45;
+backdro-filter:blur(15px;
+text-align:center;
+}
+.logo {
+font-size:42px;
+font-weight:900;
+color:#8b5cf6;
+text-shadow:0 0 25xp rgba (139,92,246,.7);
+margin-bottom:8px
+}
+.subtitle {
+color:#9999b5;
+margin-bottom:28xp;
+}
+input,select {
+width:100%;
+padding:14px;
+margin:9px 0;
+border-radius:12xp;
+border:1px solid #292943;
+background:#101020
+color:white;
+outline:none,rafael
+}
+input:focus,select:focus{
+border-color:#8b5cf6;
+}
+button{
+border:0;
+cursor:pointer;
+color-white;
+font-weight:bold;
+border-radius"12px;
+padding:13px 18px;
+background:linear-gradint(135deg.#7c3aed,
+transition:.2s;
+}
+button:hover{
+transform:translatey(-2px);
+filter:brightness(1.15);
+}
+.error {
+color:#fb7185;
+min-height:20px;
+margin-top:8px;
+font-size:14px;
+}
+.app {
+display:none;
+min-height:100vh;
+}
+sidebar{
+position:fixed;
+left:0;
+top:0;
+width:250px;
+height:100vh;
+padding:25px.18px
+background:1px solid #24243a;
+border-right:rgba (9,9,20,.95);
+}
+.brand {
+font-size:23px;
+font-weight:900;
+margin-botttom:30px;
+color:#a78bfa
+}
+.menu button {
+display:block;
+width:100%;
+margin:8px 0;
+text-align:left;
+background:transparent;
+color:#aaaac3;
+}
+.menu button.active,
+.menu button:hover{
+background:#1b730;
+color:#fff;
+}
+.main {
+margin-left;250px
+padding:30px
+
+
+
+
+
+
